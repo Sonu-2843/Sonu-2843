@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a B.Tech student passionate about building practical AI solutions that solve real problems.<br>I’ve worked on projects across machine learning, computer vision, NLP, and Python automation — including identity verification systems, sentiment analysis tools, and malware image classifiers.<br>I enjoy turning messy data into meaningful insights, experimenting with new ML techniques, and deploying models so they’re actually useful in the real world.<br>Always learning, always building, and always open to collaborating on impactful projects.
+I’m a B.Tech student passionate about building practical AI solutions that solve real problems.<br>I’ve worked on projects across machine learning, computer vision, NLP, and Python automation — including identity verification systems, sentiment analysis tools, and malware image classifiers. I enjoy turning messy data into meaningful insights, experimenting with new ML techniques, and deploying models so they’re actually useful in the real world.<br>Always learning, always building, and always open to collaborating on impactful projects.
 
 
 ## 🌐 Socials:
