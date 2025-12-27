@@ -1,5 +1,5 @@
 # 💫 About Me:
-Analyzing real-world datasets and building ML models focused on computer vision, NLP, and automation to solve practical business problems.<br>Projects involving machine learning, deep learning, data analysis, APIs, or end-to-end AI solutions that impact real users.<br>Improving model deployment best practices and optimizing ML pipelines for speed and scalability.<br>Advanced deep learning (CNNs & transformers), MLOps concepts, and better ways to productionize ML models.<br>Machine learning projects, data preprocessing, Python automation, sentiment analysis, image classification, and API integrations.<br>I built projects that verify identities, detect malware from images, and analyze shopping behavior — and I love turning messy data into useful insights!
+I’m a B.Tech student passionate about building practical AI solutions that solve real problems.<br>I’ve worked on projects across machine learning, computer vision, NLP, and Python automation — including identity verification systems, sentiment analysis tools, and malware image classifiers.<br>I enjoy turning messy data into meaningful insights, experimenting with new ML techniques, and deploying models so they’re actually useful in the real world.<br>Always learning, always building, and always open to collaborating on impactful projects.
 
 
 ## 🌐 Socials:
